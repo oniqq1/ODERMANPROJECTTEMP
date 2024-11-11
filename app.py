@@ -72,7 +72,7 @@ def post_admin():
         if (sql_conection):
             cursor.close()
             sql_conection.close()
-    return redirect("http://127.0.0.1:8099")
+    return render_template("index.html")
 
 
 

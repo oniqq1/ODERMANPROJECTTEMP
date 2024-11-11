@@ -1,26 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8a42b3e-cb93-4957-9983-f5fd3c513393" name="Changes" comment="" />
+    <list default="true" id="a8a42b3e-cb93-4957-9983-f5fd3c513393" name="Changes" comment="Final commit to push directory &quot;templates&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ohMuveJhWhNUFP6JqvunfRhpQA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PyCharm Community Edition 2024.1/projects/odermanProject&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2024.1\projects\odermanProject\temp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2024.1\projects\odermanProject" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python">
       <module name="odermanProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -33,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,17 +104,80 @@
       <option name="presentableId" value="Default" />
       <updated>1731317579865</updated>
     </task>
+    <task id="LOCAL-00001" summary="check commit">
+      <option name="closed" value="true" />
+      <created>1731317820550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731317820550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="check commit">
+      <option name="closed" value="true" />
+      <created>1731317910931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731317910931</updated>
+    </task>
+    <task id="LOCAL-00003" summary="templates try to push">
+      <option name="closed" value="true" />
+      <created>1731317992130</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731317992130</updated>
+    </task>
+    <task id="LOCAL-00004" summary="templates try to push">
+      <option name="closed" value="true" />
+      <created>1731318121279</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731318121279</updated>
+    </task>
+    <task id="LOCAL-00005" summary="second try to push templates directory">
+      <option name="closed" value="true" />
+      <created>1731318169139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731318169139</updated>
+    </task>
+    <task id="LOCAL-00006" summary="second try to push templates directory">
+      <option name="closed" value="true" />
+      <created>1731318253159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731318253159</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fourth try to push templates directory">
+      <option name="closed" value="true" />
+      <created>1731318325994</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731318325994</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final commit to push directory &quot;templates&quot;">
+      <option name="closed" value="true" />
+      <created>1731318367720</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731318367720</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="check commit" />
+    <MESSAGE value="templates try to push" />
+    <MESSAGE value="second try to push templates directory" />
+    <MESSAGE value="fourth try to push templates directory" />
+    <MESSAGE value="Final commit to push directory &quot;templates&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit to push directory &quot;templates&quot;" />
   </component>
 </project>
