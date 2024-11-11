@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for, abort
 import sqlite3
 
-app = Flask(__name__,template_folder='temp')
+app = Flask(__name__)
 
 name = "Арсен"
 surname = "Кропачев"
